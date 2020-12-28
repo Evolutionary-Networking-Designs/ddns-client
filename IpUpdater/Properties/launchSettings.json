@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "SampleWorker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "IPUPD_DOMAIN_NAME": "",
+        "IPUPD_TARGET_HOST": "",
+        "IPUPD_DDNS_PWD": ""
+      }
+    }
+  }
+}
